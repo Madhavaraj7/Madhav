@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhav</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 
-- 🌱 I’m currently learning **React js & Redux**
+- 🌱 I’m currently learning **TypeScprit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Madhavaraj7](https://github.com/Madhavaraj7)
 
