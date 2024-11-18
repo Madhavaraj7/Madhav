@@ -17,10 +17,6 @@
 <a href="https://www.leetcode.com/madhavarajr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhavarajr" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Profile Views:</h3>
-<p align="left">
- ![](https://komarev.com/ghpvc/?username=Madhavaraj7&color=dc143c)
-</p>
 
 
 
