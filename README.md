@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhav</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Madhavaraj7&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
+
 
 - 📚 I’m currently learning **Next.js**.
 
@@ -26,3 +28,11 @@
 <h3 align="left">My LeetCode Journey:</h3>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/MadhavarajR?theme=wtf)
+
+<h3 align="left"><samp>📟 GitHub Stats</samp></h3>
+<div style="display: flex; justify-content: space-between; align-items: stretch;">
+  <!-- Top Languages Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhavaraj7&show_icons=true&locale=en&layout=compact" alt="Sugith Top Languages" width="48%" height="200" style="object-fit: cover;"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhavaraj7" alt="Sugith GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
+</div>
